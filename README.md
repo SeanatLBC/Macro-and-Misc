@@ -4,6 +4,8 @@ This GitRep will hopefully help you to sort through the noise to what is importa
 
 Hot spots of innovation and development
 
-*  Dubai - Dubai is one of the leaders in innovation surrounding blockchain and IoT.
+Dubai
 
-*  Here is a link to Dubai Future Foundation:  https://www.dubaifuture.gov.ae/about-dff/
+  *  Dubai is one of the leaders in innovation surrounding blockchain and IoT.
+
+  *  Here is a link to Dubai Future Foundation:  https://www.dubaifuture.gov.ae/about-dff/
