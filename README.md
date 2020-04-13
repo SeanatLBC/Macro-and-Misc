@@ -9,3 +9,10 @@ Dubai
   *  Dubai is one of the leaders in innovation surrounding blockchain and IoT.
 
   *  Here is a link to Dubai Future Foundation:  https://www.dubaifuture.gov.ae/about-dff/
+  
+  
+  
+Interoperability
+ 
+  
+
